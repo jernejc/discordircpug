@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # discord-irc [![Build Status](https://travis-ci.org/reactiflux/discord-irc.svg?branch=master)](https://travis-ci.org/reactiflux/discord-irc) [![Coverage Status](https://coveralls.io/repos/github/reactiflux/discord-irc/badge.svg?branch=master)](https://coveralls.io/github/reactiflux/discord-irc?branch=master)
 
 > Connects [Discord](https://discordapp.com/) and IRC channels by sending messages back and forth.
@@ -38,9 +39,7 @@ discordIRC(config);
 ```
 
 ## Configuration
-First you need to create a Discord bot user, which you can do by following the instructions [here](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token).
-
-### Example configuration
+First you need to create a Discord bot user, which you can do by following the instructions [here](https://github.
 ```js
 [
   // Bot 1 (minimal configuration):
@@ -89,8 +88,4 @@ $ npm test
 
 ## Style Guide
 discord-irc follows the [Airbnb Style Guide](https://github.com/airbnb/javascript).
-[ESLint](http://eslint.org/) is used to make sure this is followed correctly, which can be run with:
-
-```bash
-$ npm run lint
-```
+[ESLint](http://eslint.org/) 
