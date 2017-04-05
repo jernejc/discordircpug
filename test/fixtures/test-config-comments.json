@@ -1,0 +1,19 @@
+[
+  {
+    "nickname": "test",
+    "server": "irc.freenode.net",
+    "discordToken": /* comment */ "whatapassword",
+    "channelMapping": {
+      "#discord": "#irc" // Comment
+    }
+  },
+  // Comment
+  {
+    "nickname": "test2",
+    "server": "irc.freenode.net",
+    "discordToken": "whatapassword",
+    "channelMapping": {
+      "#discord": "#irc"
+    }
+  }
+]
